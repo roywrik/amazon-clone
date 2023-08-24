@@ -5,6 +5,7 @@ import Home from './Home';
 import Login from "./Login";
 import Checkout from "./Checkout";
 import Orders from "./Orders";
+//Shell bootcamp
 import { auth } from "./firebase";
 import { useStateValue } from "./StateProvider";
 
